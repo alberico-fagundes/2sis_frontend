@@ -1,7 +1,6 @@
 # 🚀 Step 01: PokéAgenda — Estrutura Semântica e Cabeçalho Reutilizável (<Header />)
 
 **Disciplina:** Programação Front-End (HTML5, CSS3, JavaScript ES6+ e React)  
-**Duração:** 50 Minutos  
 **Projeto:** PokéAgenda (Pokédex em React)
 
 ---
@@ -20,7 +19,7 @@ A equipe da **PokéAgenda** precisa criar o aplicativo da enciclopédia Pokémon
 
 No desenvolvimento web clássico com HTML puro, a repetição de código dificulta a manutenção e gera inconsistências visuais.
 
-**A Pergunta-Chave PBL:**  
+**A Pergunta-Chave :**  
 > *Como podemos utilizar o **HTML5 Semântico**, **CSS Flexbox** e os **Componentes Funcionais do React** para criar um cabeçalho `<Header />` modular, reutilizável e de fácil manutenção?*
 
 ---
@@ -48,6 +47,9 @@ No desenvolvimento web clássico com HTML puro, a repetição de código dificul
 * **Componentes Funcionais:** Funções JavaScript que retornam elementos visuais em sintaxe JSX.
 * **Regra da Inicial Maiúscula:** No React, todo componente **deve obrigatoriamente** começar com letra maiúscula (ex: `Header`, não `header`). Nomes em minúsculo são interpretados como tags HTML nativas.
 * **JSX vs. HTML:** Em JSX, usamos **`className`** em vez de `class` porque `class` é uma palavra reservada da linguagem JavaScript.
+
+> [!TIP]
+> **Regra de Ouro do React:** Componentes sempre em **PascalCase** (ex: `Header.jsx`, `<Header />`). Se você criar `header.jsx` ou chamar `<header />`, o React vai achar que é uma tag HTML nativa e não vai renderizar seu componente!
 
 ---
 
@@ -98,7 +100,7 @@ export function Banner() {
 
 ---
 
-### 🛠️ 4. Desafio Ativo PBL (Mão na Massa - 30 Minutos)
+### 🛠️ 4. Desafio Ativo (Mão na Massa)
 
 Como desenvolvedor Frontend na equipe da PokéAgenda, sua missão é criar o componente `<Header />` oficial da aplicação:
 
@@ -122,7 +124,7 @@ Como desenvolvedor Frontend na equipe da PokéAgenda, sua missão é criar o com
 
 ---
 
-### 🧪 5. Teste de Validação (5 Minutos)
+### 🧪 5. Teste de Validação
 
 1. No terminal do projeto, execute `npm run dev` e acesse o endereço fornecido (ex: `http://localhost:5173`).
 2. Abra o navegador e verifique se o cabeçalho vermelho aparece no topo da tela com a logo da PokéAPI alinhada à esquerda/centro e o subtítulo visível.
@@ -130,7 +132,7 @@ Como desenvolvedor Frontend na equipe da PokéAgenda, sua missão é criar o com
 
 ---
 
-### ❓ 6. Quiz de Fixação PBL (6 Questões de Múltipla Escolha)
+### ❓ 6. Quiz de Fixação  (6 Questões de Múltipla Escolha)
 
 #### Q1. Qual tag de HTML5 Semântico é a mais adequada para encapsular o bloco superior de navegação e identidade de uma página web?
 - (A) `<div>`
