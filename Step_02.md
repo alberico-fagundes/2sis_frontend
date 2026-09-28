@@ -7,19 +7,19 @@
 
 > [!NOTE]
 > **📚 ESTRUTURA PEDAGÓGICA (DUAL-TRACK):**
-> * **📖 Trilha Teórica (PBL / Conceitual):** Estude a anatomia semântica de um Card com HTML5 (`<article>`, `<figure>`, `<ul>`/`<li>`), estilização moderna com CSS (Bordas, Sombras e Efeito Hover).
+> * **📖 Trilha Teórica ( / Conceitual):** Estude a anatomia semântica de um Card com HTML5 (`<article>`, `<figure>`, `<ul>`/`<li>`), estilização moderna com CSS (Bordas, Sombras e Efeito Hover).
 > * **🛠️ Trilha Prática (Projeto Integrador):** Construa o componente visual estático `<PokemonCard />` em `src/PokemonCard.jsx` e crie sua folha de estilos em `src/PokemonCard.css`.
 
 ---
 
-### 🧩 1. O Problema Prático (Cenário PBL - Problem Statement)
+### 🧩 1. O Problema Prático (Cenário  - Problem Statement)
 
 **O Dilema do Card Feito Apenas com Divs Genéricas:**  
 A equipe de design da **PokéAgenda** entregou a maquete visual dos cards de Pokémon. O estagiário tentou desenhar o card usando mais de 10 tags `<div>` aninhadas (`<div><div><div>...</div></div></div>`), sem nenhuma semântica HTML. Quando a página foi testada em um leitor de tela para pessoas com deficiência visual, o navegador não entendeu onde começava ou terminava o card, e o código CSS ficou confuso e difícil de entender.
 
 A ausência de tags semânticas prejudica a acessibilidade, o SEO e a legibilidade do código.
 
-**A Pergunta-Chave PBL:**  
+**A Pergunta-Chave :**  
 > *Como podemos utilizar o **HTML5 Semântico (`<article>`, `<figure>`, `<ul>`)** e o **CSS Moderno (Flexbox, Badges e Hover)** para construir a estrutura visual do nosso card de Pokémon de forma limpa, elegante e acessível?*
 
 ---

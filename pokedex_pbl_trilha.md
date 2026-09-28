@@ -1,6 +1,6 @@
-# 🎮 Trilha Pokédex: Do Zero ao React com PBL
+# 🎮 Trilha Pokédex: Do Zero ao React com 
 
-> **Metodologia:** Aprendizagem Baseada em Projetos (PBL) com desafios atômicos no estilo *freeCodeCamp* (Passo a Passo com Instruções Claras, Exemplos Sintéticos, Testes/Checklist de Aceite e Desafios Bônus).
+> **Metodologia:** Aprendizagem Baseada em Projetos () com desafios atômicos no estilo *freeCodeCamp* (Passo a Passo com Instruções Claras, Exemplos Sintéticos, Testes/Checklist de Aceite e Desafios Bônus).
 
 ---
 

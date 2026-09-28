@@ -7,12 +7,12 @@
 
 > [!NOTE]
 > **📚 ESTRUTURA PEDAGÓGICA (DUAL-TRACK):**
-> * **📖 Trilha Teórica (PBL / Conceitual):** Estude a fundação de HTML5 Semântico, CSS Flexbox, Módulos ES6 e Componentes Funcionais do React nesta documentação.
+> * **📖 Trilha Teórica ( / Conceitual):** Estude a fundação de HTML5 Semântico, CSS Flexbox, Módulos ES6 e Componentes Funcionais do React nesta documentação.
 > * **🛠️ Trilha Prática (Projeto Integrador):** Aplique estes conceitos construindo o componente isolado `<Header />` dentro da sua aplicação React (`src/Header.jsx`).
 
 ---
 
-### 🧩 1. O Problema Prático (Cenário PBL - Problem Statement)
+### 🧩 1. O Problema Prático (Cenário  - Problem Statement)
 
 **O Dilema do Cabeçalho Copiado e Colado em Múltiplas Páginas:**  
 A equipe da **PokéAgenda** precisa criar o aplicativo da enciclopédia Pokémon. O designer entregou a marca oficial e o layout do topo. O estagiário tentou criar 5 páginas HTML diferentes (Início, Busca, Tipos, Favoritos e Sobre) e copiou o código do cabeçalho em todas elas. Quando a coordenação pediu para mudar a cor do cabeçalho e atualizar a imagem da logo, o estagiário teve que abrir e alterar arquivo por arquivo. Ele errou o caminho da imagem em dois deles, quebrando o layout do site.

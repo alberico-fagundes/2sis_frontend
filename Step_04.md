@@ -7,19 +7,19 @@
 
 > [!NOTE]
 > **📚 ESTRUTURA PEDAGÓGICA (DUAL-TRACK):**
-> * **📖 Trilha Teórica (PBL / Conceitual):** Estude HTML5 Semântico (`<footer>`), Acessibilidade W3C/WCAG (`aria-label`, contraste de cores), segurança em navegação web (`rel="noopener noreferrer"`) e datas dinâmicas no JS.
+> * **📖 Trilha Teórica ( / Conceitual):** Estude HTML5 Semântico (`<footer>`), Acessibilidade W3C/WCAG (`aria-label`, contraste de cores), segurança em navegação web (`rel="noopener noreferrer"`) e datas dinâmicas no JS.
 > * **🛠️ Trilha Prática (Projeto Integrador):** Crie o componente reutilizável `<Footer />` em `src/Footer.jsx` e aplique estilos acessíveis e responsivos em `src/Footer.css`.
 
 ---
 
-### 🧩 1. O Problema Prático (Cenário PBL - Problem Statement)
+### 🧩 1. O Problema Prático (Cenário  - Problem Statement)
 
 **O Dilema do Rodapé Inacessível e Inseguro:**  
 Ao lançar a primeira versão da **PokéAgenda**, a equipe recebeu duas notificações sérias. A primeira veio de uma usuária cega que utiliza leitores de tela: o software assistivo não conseguia identificar os links do rodapé porque eles não tinham texto ou rótulos acessíveis. A segunda notificação veio da equipe de segurança: os links externos abrindo em nova aba (`target="_blank"`) permitiam que páginas externas tentassem sequestrar a aba do aplicativo (*Tabnabbing*).
 
 Um rodapé sem padrões de acessibilidade exclui pessoas e, sem atributos de segurança, expõe o usuário a riscos.
 
-**A Pergunta-Chave PBL:**  
+**A Pergunta-Chave :**  
 > *Como podemos utilizar a tag **HTML5 `<footer>`**, atributos de **Acessibilidade W3C (`aria-label`)** e **Links Seguros (`rel="noopener noreferrer"`)** no React para criar um rodapé acessível, seguro e com ano de copyright automático?*
 
 ---

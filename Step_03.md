@@ -7,19 +7,19 @@
 
 > [!NOTE]
 > **📚 ESTRUTURA PEDAGÓGICA (DUAL-TRACK):**
-> * **📖 Trilha Teórica (PBL / Conceitual):** Domine a passagem de **Props** no React, Objetos Literais e **Desestruturação em JS ES6**, além de interpolação no JSX com chaves `{}`.
+> * **📖 Trilha Teórica ( / Conceitual):** Domine a passagem de **Props** no React, Objetos Literais e **Desestruturação em JS ES6**, além de interpolação no JSX com chaves `{}`.
 > * **🛠️ Trilha Prática (Projeto Integrador):** Transforme o componente estático `<PokemonCard />` em um componente 100% dinâmico e reutilizável para renderizar qualquer Pokémon da franquia.
 
 ---
 
-### 🧩 1. O Problema Prático (Cenário PBL - Problem Statement)
+### 🧩 1. O Problema Prático (Cenário  - Problem Statement)
 
 **O Dilema dos 150 Arquivos Duplicados:**  
 Com o card do Charmander pronto e aprovado, o coordenador da **PokéAgenda** pediu para adicionar o Squirtle, o Bulbasaur, o Pikachu e todos os outros 150 Pokémons. O estagiário começou a criar 150 arquivos diferentes (`CharmanderCard.jsx`, `SquirtleCard.jsx`, `BulbasaurCard.jsx`...), copiando e colando a mesma estrutura HTML e mudando apenas os textos e imagens manualmente. O projeto ficou gigantesco, pesado e impossível de gerenciar.
 
 Duplicar arquivos e estruturas inteiras para mudar apenas dados viola o princípio fundamental do desenvolvimento moderno: **DRY** (*Don't Repeat Yourself* / Não Se Repita).
 
-**A Pergunta-Chave PBL:**  
+**A Pergunta-Chave :**  
 > *Como podemos utilizar as **Props do React** e a **Desestruturação de JavaScript ES6** para que um **único componente `<PokemonCard />`** seja capaz de exibir qualquer Pokémon passando apenas suas informações como parâmetro?*
 
 ---
